@@ -3,7 +3,7 @@
 
 I really had trouble to understand Github, but few youtube videos saved me
 
-![image](https://github.com/FH-Prottay/Projects-and-Certificates/assets/170165987/89d911ed-e40c-44d9-972d-dff4d4640db7) 
+
 
 
 Anyways
