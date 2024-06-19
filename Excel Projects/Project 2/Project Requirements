@@ -1,0 +1,4 @@
+In this project, there were 3 excel sheets containing 1000 customers details(Customer ID, Country), 4 types of coffee, 4 types of coffee size and 3 types of Coffee Roast type. 
+
+I have cleaned, removed duplicate data and merge the other worksheets info with the main sheet.
+Then using pivot table and slicers I completed this "Dynamic Dashboard".
