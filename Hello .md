@@ -15,3 +15,5 @@ All of my projects and certificates are in this repository.
 
 
 ![0dbdbc0eddd3cdf8829712ba59effe11](https://github.com/FH-Prottay/Projects-and-Certificates/assets/170165987/4a05bd19-31e2-4466-abb5-d860e75a5d7b)
+
+![WhatsApp Image 2024-06-19 at 13 52 40_d889571e](https://github.com/FH-Prottay/Projects-and-Certificates/assets/170165987/c99930e0-398e-4aca-801d-93b693007011)
