@@ -1,4 +1,7 @@
 #This project contains the game "Rock Paper Scissor" 
+#Rock beats scissors and loses to paper.
+#Paper beats rock, but loses to scissors.
+#Scissors beat paper but loses to rock.
 
 import random
 Rock ="""
