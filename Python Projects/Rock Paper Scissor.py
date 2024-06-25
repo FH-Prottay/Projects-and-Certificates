@@ -1,4 +1,4 @@
-#This project contains the game "Rock Paper Scissor" 
+#Rules of the game "Rock Paper Scissor": 
 #Rock beats scissors and loses to paper.
 #Paper beats rock, but loses to scissors.
 #Scissors beat paper but loses to rock.
