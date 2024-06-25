@@ -1,4 +1,5 @@
-2#rock paper scissor problem
+#This project contains the game "Rock Paper Scissor" 
+
 import random
 Rock ="""
     _______
