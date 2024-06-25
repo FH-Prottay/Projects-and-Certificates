@@ -65,4 +65,4 @@ else:
             print(f"{Paper} \t {Scissors}")
         print("you lose")
 
-
+print("Thanks for playing")
