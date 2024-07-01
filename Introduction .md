@@ -16,4 +16,4 @@ All of my projects and certificates are in this repository.
 
 ![0dbdbc0eddd3cdf8829712ba59effe11](https://github.com/FH-Prottay/Projects-and-Certificates/assets/170165987/4a05bd19-31e2-4466-abb5-d860e75a5d7b)
 
-![Fahimul Haque](https://github.com/FH-Prottay/Projects-and-Certificates/assets/170165987/882b1141-97b9-4f54-b840-d2bc23b00d76)
+
