@@ -1,4 +1,4 @@
-This Python script simulates a slot machine game. Players can deposit money, place bets on up to three lines, and spin the slot machine to try and win more money. The game uses symbols with different values and probabilities to determine winnings. The main features include:
+This Python project simulates a slot machine game. Players can deposit money, place bets on up to three lines, and spin the slot machine to try and win more money. The game uses symbols with different values and probabilities to determine winnings. The main features include:
 
 1)**Deposit Function**: Players can deposit a certain amount of money to start playing.
 
