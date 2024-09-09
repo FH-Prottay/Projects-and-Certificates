@@ -21,10 +21,3 @@ I analyzed historical data from the Olympic Games, spanning from 1896 to the 201
 4. **Tools and Techniques:**
    - Utilized Python libraries such as Pandas for data manipulation, Seaborn for visualizations, and Matplotlib for plotting graphs.
    - Leveraged data querying to derive specific insights for countries and events.
-
-
-#DataScience #Analytics #Python #Olympics #Visualization #DataAnalysis
-
----
-
-Feel free to adjust the text as needed and add any specific visualizations or images to make your post more engaging!
